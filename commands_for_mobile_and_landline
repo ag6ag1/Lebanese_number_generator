@@ -1,0 +1,28 @@
+## mobile:
+crunch 8 8 1234567890 -t 03@@@@@@ -o 03.txt
+crunch 8 8 1234567890 -t 70@@@@@@ -o 70.txt
+crunch 8 8 1234567890 -t 71@@@@@@ -o 71.txt
+crunch 8 8 1234567890 -t 76@@@@@@ -o 76.txt
+crunch 8 8 1234567890 -t 78@@@@@@ -o 78.txt
+crunch 8 8 1234567890 -t 79@@@@@@ -o 79.txt
+crunch 8 8 1234567890 -t 81@@@@@@ -o 81.txt
+
+
+## landline :
+Aintoura 04
+Aley 05
+Beirut 01
+Bekaa 08
+Keserwan 09
+Saida 07
+Tripoli 06
+
+crunch 8 8 1234567890 -t 01@@@@@@ -o 01.txt
+crunch 8 8 1234567890 -t 04@@@@@@ -o 04.txt
+crunch 8 8 1234567890 -t 05@@@@@@ -o 05.txt
+crunch 8 8 1234567890 -t 06@@@@@@ -o 06.txt
+crunch 8 8 1234567890 -t 07@@@@@@ -o 07.txt
+crunch 8 8 1234567890 -t 08@@@@@@ -o 08.txt
+crunch 8 8 1234567890 -t 09@@@@@@ -o 09.txt
+
+
